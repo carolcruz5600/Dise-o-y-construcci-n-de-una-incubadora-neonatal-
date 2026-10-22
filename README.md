@@ -266,9 +266,9 @@ Estos materiales son apropiados para una maqueta didáctica, pero no se evaluaro
 
 <div align="center">
 
-**[FIGURA 9: Prototipo final]**
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/ac0b463d-8bc0-4ea6-818c-cf63f589563f" />
 
-**[FIGURA 10: Rejilla de acrílico y la base]**
+**[FIGURA 2: Prototipo final]**
 
 </div>
 
